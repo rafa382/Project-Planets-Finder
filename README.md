@@ -17,4 +17,4 @@
 4. Após digitar o comando acima uma nova janela do seu navagador será aberta com o projeto em execução. :sparkles:	
 
 
-node version: 16.13.1
+**node version: 16.13.1**
